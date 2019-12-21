@@ -1,0 +1,162 @@
+[
+  {
+    "id": null,
+    "name": "STANDARD",
+    "cost": 59.99,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  },
+  {
+    "id": null,
+    "name": "PRZYRODA",
+    "cost": 29.99,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  },
+  {
+    "id": null,
+    "name": "HISTORIA",
+    "cost": 9.99,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  },
+  {
+    "id": null,
+    "name": "MUZYKA",
+    "cost": 18.99,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  },
+  {
+    "id": null,
+    "name": "KUCHNIA",
+    "cost": 33.11,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  },
+  {
+    "id": null,
+    "name": "SPORT",
+    "cost": 22.33,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  },
+  {
+    "id": null,
+    "name": "INFO",
+    "cost": 7.77,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  },
+  {
+    "id": null,
+    "name": "FILM",
+    "cost": 333.99,
+    "agreementDurationsDTO": [
+      {
+        "id": null,
+        "duration": 6
+      },
+      {
+        "id": null,
+        "duration": 12
+      },
+      {
+        "id": null,
+        "duration": 24
+      }
+
+    ]
+  }
+]
